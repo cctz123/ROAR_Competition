@@ -243,6 +243,7 @@ async def main():
         print("Solution failed to finish in time")
 
 print("hello")
+print("test pt2")
 
 if __name__ == "__main__":
     asyncio.run(main())
